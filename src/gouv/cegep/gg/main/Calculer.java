@@ -23,5 +23,8 @@ public class Calculer {
         calculeleNombre.afficher(addition, "addition");
         calculeleNombre.afficher(soustraction, "soustraction");
 
+        System.out.println("Bonjour Git");
+
     }
+
 }
